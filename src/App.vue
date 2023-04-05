@@ -5,7 +5,7 @@
 <template>
     
     <center><h1>Crystal Games </h1></center>
-    <center><img src="https://o.remove.bg/downloads/6eb1c096-cece-4119-95fb-5e2cdce19653/p-removebg-preview.png" alt="Logo Gemes" style="width:322px;height:330px;" /> </center>
+    <center><img src="https://cdn.discordapp.com/attachments/905830790674386996/1093018119259291758/jp.jpg" alt="Logo Gemes" style="width:322px;height:330px;" /> </center>
     <h2><center>Login Crystal</center></h2>
     <form action="/action_page.php"> <center>
         <label for="usname">Username:</label>
